@@ -1,5 +1,5 @@
 (function (window) {
-var names = ["Ahmed", "Saléh", "Jamel", "Jim", "Joudi", "karim", "monir", "jomana"];
+var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura" , "Jim"];
 
 for (var name in names) {
   var fletter = (names[name]).charAt(0).toUpperCase();
